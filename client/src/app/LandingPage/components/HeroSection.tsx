@@ -17,7 +17,7 @@ export const HeroSection = () => {
         <div className=" container mx-auto mt-10 flex flex-col items-center gap-6 px-10 ">
           <div className="flex items-center gap-2 rounded-full border-2 border-[#0B501E] px-3.5 py-2">
             <Image
-              src="/starkNetIcon.png"
+              src="/starknetIconMd.png"
               width={15}
               height={15}
               alt="starknet"
