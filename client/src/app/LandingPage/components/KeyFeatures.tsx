@@ -61,7 +61,7 @@ export const KeyFeatures = () => {
                 </p>
               </div>
               <p className="mt-4 text-justify text-base leading-7 font-medium text-[#419057]">
-                Conversations happen live, just like you're used to. Leveraging
+                Conversations happen live, just like you&rsquo;re used to. Leveraging
                 off-chain indexing with on-chain confirmations, Gasless Gossip
                 ensures your chats are fast, smooth, and always synced across
                 devices.
@@ -93,7 +93,7 @@ export const KeyFeatures = () => {
               </p>
             </div>
             <p className="mt-4 mb-10 text-justify text-base leading-7 font-medium text-[#419057]">
-              Show some love with tokens. Whether you're tipping a friend,
+              Show some love with tokens. Whether you&rsquo;re tipping a friend,
               rewarding a witty comment, or boosting a message, tipping is built
               right into the chat — no extra steps, no friction, and still
               gasless.

@@ -37,7 +37,7 @@ export const EarlyAccess = () => {
                 powered by Starknet.
               </p>
               <p className="mb-8 text-green-700">
-                Whether you're a seasoned crypto user or just curious about
+                Whether you&rsquo;re a seasoned crypto user or just curious about
                 Web3, Gasless Gossip puts the power of messaging back in your
                 hands — no fees, no friction.
               </p>

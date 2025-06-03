@@ -11,7 +11,7 @@ export const AboutUs = () => {
           </h3>
           <p className="w-full text-justify text-base leading-relaxed text-[#419057] md:w-[65%]">
             Start by connecting your crypto wallet (like Argent, Braavos, or
-            MetaMask via Starknet). No need to preload it with ETH — you won’t
+            MetaMask via Starknet). No need to preload it with ETH — you won&rsquo;t
             be paying gas. Gasless Gossip uses account abstraction to cover
             network fees for you.
           </p>
